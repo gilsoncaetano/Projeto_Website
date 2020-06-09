@@ -696,13 +696,16 @@ h5.white-textinst {
 .valores {
   font-size: 14pt !important;
 }
-#Acossiado img {
+#Associado img {
   width: 100%;
   border-top-right-radius: 80px;
   border-bottom-left-radius: 80px;
 }
-#Acossiado {
+#Associado {
   width: 100%;
   padding: 10px;
+}
+.associado {
+  text-align: center;
 }
 /* ============Fim do css do Sobre nós================== */
